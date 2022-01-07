@@ -41,6 +41,8 @@ I am Full-Stack Web Developer.  I have a passion for learning and sharing my kno
  
 ### <a href="/"> Clone of Max Fashion </a>
 
-<br/> <br/> <br/>
+<br/> <br/> <br/> <br/> 
+
+---
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
