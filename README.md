@@ -46,3 +46,5 @@ I am Full-Stack Web Developer.  I have a passion for learning and sharing my kno
 ---
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar-Bhalla&theme=radical)
