@@ -1,7 +1,7 @@
 ![Header](https://github.com/Prakhar-Bhalla/Prakhar-Bhalla/blob/main/git%20header.png?raw=true)
 <br/> <br/> <br/> <br/> Hey there 👋,
 
-I am Full-Stack Web Developer.  I have a passion for learning and sharing my knowledge with others in <br/> a way that's as public as possible. If you found value in something I have created, please feel free contact :-<br/>
+I am Full-Stack Web Developer.  I have a passion for learning and sharing my knowledge with others in <br/> a way that's as public as possible. If you found value in something I have created, please feel free to contact :-<br/>
 <img width="20px" src="https://github.com/Spratham72/Spratham72/blob/main/gmail.png?raw=true">  prakharbhalla2016@gmail.com, <br/>
 <img width="20px" src="https://github.com/Spratham72/Spratham72/blob/main/linkdin.png?raw=true">  https://www.linkedin.com/in/bhallaprakhar/, <br/>
 <h3 align="left">Languages and Tools:</h3>
